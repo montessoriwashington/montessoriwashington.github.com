@@ -15,7 +15,7 @@ var bc=0xffcc00;
 if(typeof(frames)=="undefined"){var frames=0;}
 
 startMainMenu("",0,0,2,0,0)
-mainMenuItem("msow2_b1",".gif",30,107,"http://msowbuzz.tumblr.com/","_blank","News",2,2,"msow2_plain");
+mainMenuItem("msow2_b1",".gif",30,107,"http://montessoriwashington.org/documents/Jan_news.pdf","_blank","News",2,2,"msow2_plain");
 mainMenuItem("msow2_b2",".gif",30,107,"http://montessoriwashington.org/programs.html","","Programs",2,2,"msow2_plain");
 mainMenuItem("msow2_b3",".gif",30,107,"http://montessoriwashington.org/families.html","","Families",2,2,"msow2_plain");
 mainMenuItem("msow2_b4",".gif",30,107,"http://montessoriwashington.org/staff.html","","Staff",2,2,"msow2_plain");
