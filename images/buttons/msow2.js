@@ -15,19 +15,20 @@ var bc=0xffcc00;
 if(typeof(frames)=="undefined"){var frames=0;}
 
 startMainMenu("",0,0,2,0,0)
-mainMenuItem("msow2_b1",".gif",30,107,"http://montessoriwashington.org/documents/Jan_news.pdf","_blank","News",2,2,"msow2_plain");
-mainMenuItem("msow2_b2",".gif",30,107,"http://montessoriwashington.org/programs.html","","Programs",2,2,"msow2_plain");
-mainMenuItem("msow2_b3",".gif",30,107,"http://montessoriwashington.org/families.html","","Families",2,2,"msow2_plain");
-mainMenuItem("msow2_b4",".gif",30,107,"http://montessoriwashington.org/staff.html","","Staff",2,2,"msow2_plain");
-mainMenuItem("msow2_b5",".gif",30,107,"http://montessoriwashington.org/calendars.html","","Calendars",2,2,"msow2_plain");
-mainMenuItem("msow2_b6",".gif",30,107,"http://montessoriwashington.org/admissions.html","","Admissions",2,2,"msow2_plain");
-mainMenuItem("msow2_b7",".gif",30,107,"http://montessoriwashington.org/contact.html","","Contact",2,2,"msow2_plain");
-mainMenuItem("msow2_b8",".gif",30,107,"http://montessoriwashington.org/","","Home",2,2,"msow2_plain");
+mainMenuItem("msow2_b1",".gif",26,110,"http://montessoriwashington.org/documents/MSOW_newsletter.pdf","_blank","News",2,2,"msow2_plain");
+mainMenuItem("msow2_b2",".gif",26,110,"http://montessoriwashington.org/programs.html","","Programs",2,2,"msow2_plain");
+mainMenuItem("msow2_b3",".gif",26,110,"http://montessoriwashington.org/summer-camp.html","","Summer Camp",2,2,"msow2_plain");
+mainMenuItem("msow2_b4",".gif",26,110,"http://montessoriwashington.org/families.html","","Families",2,2,"msow2_plain");
+mainMenuItem("msow2_b5",".gif",26,110,"http://montessoriwashington.org/staff.html","","Staff",2,2,"msow2_plain");
+mainMenuItem("msow2_b6",".gif",26,110,"http://montessoriwashington.org/calendars.html","","Calendars",2,2,"msow2_plain");
+mainMenuItem("msow2_b7",".gif",26,110,"http://montessoriwashington.org/admissions.html","","Admissions",2,2,"msow2_plain");
+mainMenuItem("msow2_b8",".gif",26,110,"http://montessoriwashington.org/contact.html","","Contact",2,2,"msow2_plain");
+mainMenuItem("msow2_b9",".gif",26,110,"http://montessoriwashington.org/","","Home",2,2,"msow2_plain");
 endMainMenu("",0,0);
 
-startSubmenu("msow2_b5","msow2_menu",170);
+startSubmenu("msow2_b6","msow2_menu",170);
 submenuItem("Important Dates for 2012-13","http://montessoriwashington.org/calendar.html","","msow2_plain");
 submenuItem("Our Google Calendar","http://montessoriwashington.org/googlecalendar.html","","msow2_plain");
-endSubmenu("msow2_b5");
+endSubmenu("msow2_b6");
 
 loc="";
