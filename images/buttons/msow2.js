@@ -27,7 +27,7 @@ mainMenuItem("msow2_b9",".gif",26,110,"http://montessoriwashington.org/","","Hom
 endMainMenu("",0,0);
 
 startSubmenu("msow2_b6","msow2_menu",170);
-submenuItem("Important Dates for 2012-13","http://montessoriwashington.org/calendar.html","","msow2_plain");
+submenuItem("Important Dates for 2013-14","http://montessoriwashington.org/calendar.html","","msow2_plain");
 submenuItem("Our Google Calendar","http://montessoriwashington.org/googlecalendar.html","","msow2_plain");
 endSubmenu("msow2_b6");
 
